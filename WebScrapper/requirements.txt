@@ -1,0 +1,7 @@
+#Requirements
+python3
+request
+beautifulsoup4
+pandas  
+
+
